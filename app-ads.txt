@@ -180,3 +180,10 @@ bidmachine.io, 113, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 67, RESELLER
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
+adview.com, 48045325, RESELLER, 1b2cc038a11ea319
+Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
+thebrave.io, 9840732, RESELLER, c25b2154543746ac
+thebrave.io, 1234594, RESELLER, c25b2154543746ac
+Pubnative.net, 1007063, RESELLER, d641df8625486a7b
+Pubnative.net, 1003601, RESELLER, d641df8625486a7b
