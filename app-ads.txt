@@ -208,3 +208,6 @@ spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 yandex.com, 95746987, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+Xapads.com, 117219, RESELLER
+Pubmatic.com, 157704, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
