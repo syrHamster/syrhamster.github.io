@@ -222,3 +222,5 @@ advlion.com, 3108, RESELLER
 pubmatic.com, 161853, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 Contextweb.com, 562842, RESELLER, 89ff185a4c4e857c
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
