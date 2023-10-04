@@ -594,3 +594,9 @@ pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 pubnative.net, 1007501, RESELLER, d641df8625486a7b
 pubnative.net, 1008770, RESELLER, d641df8625486a7b
+playwire.com, 1018531, RESELLER
+playwire.com, 1025000, RESELLER
+improvedigital.com, 1604, RESELLER
+improvedigital.com, 2052, RESELLER
+152media.info, 152M324, RESELLER
+smartclip.net, 13564, RESELLER
