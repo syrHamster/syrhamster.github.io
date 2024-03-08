@@ -659,3 +659,16 @@ empower.net, 63cb0332e4b01718f069d4cb, DIRECT
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 opera.com,pub9443931419968,DIRECT,55a0c5fd61378de3
 improvedigital.com, 2320, RESELLER
+bidease.com, bidease_seller_20, RESELLER
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 26386, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
+xandr.com, 15769, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+video.unrulymedia.com, 392157850, RESELLER
+video.unrulymedia.com, 819070080, RESELLER
+ImproveDigital, 2343, RESELLER
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
