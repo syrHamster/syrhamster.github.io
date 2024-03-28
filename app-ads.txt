@@ -672,3 +672,9 @@ ImproveDigital, 2343, RESELLER
 smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
+zmaticoo.com, 5135195, RESELLER
+improvedigital.com, 2414, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
+contextweb.com, 159668, RESELLER, 5d62403b186f2ace
+betweendigital.com, 45827, RESELLER
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
