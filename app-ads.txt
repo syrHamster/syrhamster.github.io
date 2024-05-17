@@ -689,3 +689,5 @@ video.unrulymedia.com, 169764768, RESELLER
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 mars.media, 1010442, RESELLER
 sharethrough.com, f0oqso2j, RESELLER, d53b998a7bd4ecd2
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
