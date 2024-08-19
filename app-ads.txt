@@ -754,3 +754,7 @@ admanmedia.com, 990, RESELLER
 lacunads.com, lcb555b3bc8667a09a, RESELLER
 zmaticoo.com, 5135704, RESELLER
 mars.media, 1010442, RESELLER, 8624339f102fb076
+connekt.ai, 1732945743, RESELLER
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+video.unrulymedia.com, 1058378980, RESELLER
