@@ -562,3 +562,10 @@ toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 conversantmedia.com, 100396, RESELLER, 03113cd04947736d
 zmaticoo.com, 5135704, RESELLER
 lacunads.com, lcb555b3bc8667a09a, RESELLER
+sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
+sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
+media.net, 8cu12aq1y, RESELLER
+risecodes.com, 6486c6155b231000010244b0, RESELLER
