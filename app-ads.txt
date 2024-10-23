@@ -569,3 +569,4 @@ lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
 media.net, 8cu12aq1y, RESELLER
 risecodes.com, 6486c6155b231000010244b0, RESELLER
+improvedigital.com, 2464, RESELLER
