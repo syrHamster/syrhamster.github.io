@@ -599,3 +599,8 @@ bid-matrix.com, f2c71a45ea149366, RESELLER
 tradplusad.com, b3fca24bd11c1242, RESELLER
 video.unrulymedia.com, 755432070, RESELLER
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
+inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
+rhebus.works, 5000863388, RESELLER
+taurusx.com, 80029, RESELLER
+e-planning.net, 79686787743ddfc5, RESELLER, c1ba615865ed87b2
+openx.com, 541017750, RESELLER, 6a698e2ec38604c6
