@@ -573,7 +573,6 @@ rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 App-stock.com, 256917, Reseller
 appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
-Contextweb.com, 563285, RESELLER, 89ff185a4c4e857c
 onlinemediasolutions.com, 20498, RESELLER
 appnexus.com, 15629, RESELLER
 ignitemediatech.com, pub_11113, RESELLER
@@ -593,7 +592,6 @@ loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 toponad.com, 164478a84dfe31, RESELLER, 1d49fe424a1a456d
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
-xandr.com, 15840, RESELLER
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
@@ -645,10 +643,6 @@ admanmedia.com, 990, RESELLER
 visiblemeasures.com, 1020, RESELLER
 video.unrulymedia.com, 158727213, RESELLER
 zmaticoo.com, 5135703, RESELLER
-rhebus.works, 3816258913, RESELLER
-lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
-sharethrough.com, vQMCuYXA, RESELLER, d53b998a7bd4ecd2
-appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 playwire.com,1025119,RESELLER
 zmaticoo.com, 5135347, RESELLER
 yeahmobi.com, 5135347, RESELLER
@@ -660,7 +654,28 @@ video.unrulymedia.com, 1058378980, RESELLER
 thunder-monetize.com, 1421531493, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
-smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
+rubiconproject.com, 25060 , RESELLER, 0bfd66d529a55807
+risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
+sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+Media.net, 8CU12AQ1Y, RESELLER
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+smartclip.net, 13630, RESELLER
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+zetaglobal.net, 815, RESELLER
+contextweb.com, 563539, RESELLER, 89ff185a4c4e857c
+sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
+appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
+smartclip.net, 27985, RESELLER
+pubnative.net, 1009988, RESELLER, d641df8625486a7b
+conversantmedia.com, 100863, RESELLER, 03113cd04947736d
+improvedigital.com, 2451, RESELLER
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
+media.net, 8CU43768M, RESELLER
+taurusx.com, 80070, RESELLER
+rhebus.works, 5000863388, RESELLER
+e-planning.net,79686787743ddfc5,RESELLER,c1ba615865ed87b2
 
 contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
