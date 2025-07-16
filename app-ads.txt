@@ -873,3 +873,6 @@ improvedigital.com, 2534, RESELLER
 zmaticoo.com, 5135063, RESELLER
 video.unrulymedia.com, 389957698, RESELLER
 copper6.com, 766114, RESELLER
+pubnative.net, 1007485, RESELLER, d641df8625486a7b
+rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
+opera.com, pub6843437470464, RESELLER, 55a0c5fd61378de3
