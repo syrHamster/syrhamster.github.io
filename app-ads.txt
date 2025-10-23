@@ -1002,3 +1002,8 @@ lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
 rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 1058378980, RESELLER
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 657436911, RESELLER
+appnexus.com, 17779, RESELLER
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+xandr.com, 17779, RESELLER
