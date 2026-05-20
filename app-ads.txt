@@ -1081,3 +1081,10 @@ targetbetter.com, 82228, RESELLER
 zetaglobal.net, 630, RESELLER
 rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
+adform.com, 3400, RESELLER, 9f5210a2f0999e32
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+triplelift.com, 95054, RESELLER, 6c33edb13117fd86
+rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
